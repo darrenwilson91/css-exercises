@@ -1,0 +1,21 @@
+.redbox {
+    background-color: rgb(206, 98, 98);
+    color: black;
+    font-size: 18px;
+    font-family: "Verdana", sans-serif;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+#bluebig {
+    color: rgb(24, 161, 196);
+    font-size: 36px;
+}
+
+#greenboxbold {
+    background-color: rgb(134, 204, 134);
+    font-size: 24px;
+    font-weight: bold;
+}
